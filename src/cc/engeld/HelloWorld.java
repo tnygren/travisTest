@@ -2,6 +2,6 @@ package cc.engeld;
 
 public class HelloWorld{
     public static void main(String[] args) {
-        System.out.println("Hello World, this is a testing branch!");
+        System.out.println("Hello World, another test again!");
     }
 }
